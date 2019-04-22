@@ -1,0 +1,58 @@
+
+.container-news {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 50% 50%;
+    grid-gap: 25px;
+}
+header {
+    padding-top: 3%;
+}
+
+header h4 {
+    width: 65%;
+}
+
+#titulo {
+    padding-top: 3%;
+}
+
+.fecha {
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+.editor-title {
+    color: brown;
+    font-weight: 600;
+    padding-right: 2%
+}
+
+.margin-right {
+    margin-right: 3%;
+}
+
+.width-img {
+    width: 100%;
+}
+
+header > div > span {
+    color: brown;
+    font-weight: 600;
+    padding-right: 2%;
+}
+.icon-color {
+    color: brown;
+    font-size: 0.8em;
+}
+
+.news-text {
+    text-align: justify;
+    padding-top: 5%;
+}
+
+.img-padding-top {
+    padding-top: 2%;
+}
+
+

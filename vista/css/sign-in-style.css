@@ -1,0 +1,44 @@
+body {
+
+    background-image: url(../img/pexels-photo-97050x50.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+
+}
+
+.wrapper {
+    background-color: white;
+    width: 40%;
+    margin-top: 13%;
+    padding: 35px;
+    border: 1px solid black;
+    
+}
+
+.inputClass {
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 8%;
+    width: 95%;    
+}
+
+
+
+hr {
+    background-color: grey;
+}
+
+#button {
+    position: relative;
+    left: 13%;
+    padding-top: 15%;
+    padding-bottom: 10%;
+}
+
+h4 {
+    font-size: 1.1em;
+}
+
