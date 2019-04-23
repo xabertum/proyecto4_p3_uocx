@@ -109,7 +109,7 @@ session_start();
 				<div class="row">
 
 					<div class="col-3">
-						<p>© World News, 2018</p>
+						<p>© All Your News, 2019</p>
 					</div>
 					<div class="col-3">
 
