@@ -157,7 +157,7 @@ $noticias = $resultado->fetchAll(PDO::FETCH_ASSOC);
 								<img class="barra-news" src="img/barraNewsVerde.png" alt="">
 								<p>EARTH</p>
 							</div>
-						<a/>
+						</a>
 					</div>
 				</div>
 			</div>
