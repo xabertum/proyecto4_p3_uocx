@@ -3,13 +3,13 @@
  */
 function formatDate(date) {
     var monthNames = [
-      "January", "February", "March",
-      "April", "May", "June", "July",
-      "August", "September", "October",
-      "November", "December"
+      "Enero", "Febrero", "Marzo",
+      "Abril", "Mayo", "Junio", "Julio",
+      "Agosto", "Septiembre", "Octubre",
+      "Noviembre", "Diciembre"
     ];
 
-    var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+    var days = ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"];
     var day = date.getDate();
     var monthIndex = date.getMonth();
       
