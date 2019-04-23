@@ -60,7 +60,7 @@ $cnx = Conexion::conectar();
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="custom-container">
-						
+						<h2>Bienvenido a World News</h2>
 					</div>
 				</div>				
 			</div>
@@ -70,15 +70,12 @@ $cnx = Conexion::conectar();
 	<!-- NEWS SECTION -->
 
 	<div class="container title-news">
-		<img class="barra-news" src="img/barraNewsAmarillo.png" height="33"
-			alt="">
 		<h2>News</h2>
 	</div>
 
 	<div class="container latest-news">
 		<div class="row">
-			<div class="col-3">
-				
+			<div class="col-3">				
 
 			</div>
 
