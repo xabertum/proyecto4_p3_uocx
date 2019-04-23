@@ -2,16 +2,6 @@ h4, h2 {
     font-size: 1.3em;
 }
 
-.custom-container img {
-    -webkit-filter: brightness(0.6);
-    filter: brightness(0.6);
-}
-
-.custom-container>*:hover {
-    -webkit-filter: brightness(1);
-    filter: brightness(1);
-}
-
 /******************************/
 
 .navbar>.container {
@@ -70,27 +60,20 @@ h4, h2 {
 
 #date {
     position: absolute;
-    margin-top: 2%;
+    margin-top: 2.5%;
 }
 
 /***************************/
 
-.latest-bg {
+.intro-bg {
     background-color: #E7E8E1;
 }
 
-.latest-news {
+.intro-news {
     padding-top: 4em;
     padding-bottom: 4em;
 }
 
-.latest-news-padding {
-    padding-top: 1em;
-}
-
-.news-img-padding {
-    padding-bottom: 1em;
-}
 
 /***************************/
 
@@ -157,6 +140,9 @@ footer {
     color: white;
     padding-top: 2%;
     padding-bottom: 2%;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 .footer-ul {

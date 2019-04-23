@@ -29,7 +29,7 @@ $cnx = Conexion::conectar();
 	<!-- NAVBAR -->
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 		<div class="container">
-			<a class="navbar-brand" href="#">World News</a>
+			<a class="navbar-brand" href="#">All Your News</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse"
 				data-target="#navbarsExample07" aria-controls="navbarsExample07"
 				aria-expanded="false" aria-label="Toggle navigation">
@@ -49,18 +49,18 @@ $cnx = Conexion::conectar();
 	</nav>
 
 	<!-- LATEST NEWS SECTION -->
-	<div class="container-fluid latest-bg">
+	<div class="container-fluid intro-bg">
 
 		<div class="container">
 			<div class="custom-container">
 				<p id="date"></p>
 			</div>
 		</div>
-		<div class="container latest-news">
+		<div class="container intro-news">
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="custom-container">
-						<h2>Bienvenido a World News</h2>
+						<h2>Bienvenido a All Your News</h2>
 					</div>
 				</div>				
 			</div>
