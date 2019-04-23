@@ -13,7 +13,7 @@ function formatDate(date) {
     var day = date.getDate();
     var monthIndex = date.getMonth();
       
-    return days[new Date().getDay()] + ' , ' + day + ' ' + monthNames[monthIndex]; 
+    return days[new Date().getDay()] + ', ' + day + ' ' + monthNames[monthIndex]; 
   }
 
 document.getElementById("date").innerHTML = formatDate(new Date);
