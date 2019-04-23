@@ -13,6 +13,11 @@ h4, h2 {
     font-size: 0.9em;
 }
 
+.navbar-brand {
+    font-size: 1.15em;
+    padding-bottom: 0% !important;
+}
+
 .li-sign-in {
     width: 15.5em;
     border-left: 1px solid white;

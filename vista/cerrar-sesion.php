@@ -1,5 +1,5 @@
 <?php 
 
-header("location: sign-in.html");
+header("location: index.php");
 session_destroy();
 
