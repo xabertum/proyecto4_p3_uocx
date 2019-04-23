@@ -78,7 +78,7 @@ class UsuarioDAO extends Conexion
         $filas = $resultado->fetch();
 
         $usuario = new Usuario();
-        $usuario->setId($filas["id"]);
+        //$usuario->setId($filas["id"]);
         $usuario->setNombre($filas["nombre"]);
         $usuario->setRol($filas["rol"]);
         $usuario->setUsername($filas["username"]);
